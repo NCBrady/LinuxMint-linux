@@ -9,9 +9,9 @@ Microsoft only supports Ubuntu and RHEL. On Linux Mint the script reads `UBUNTU_
 ## Usage
 
 ```bash
-curl -fsSLO https://raw.githubusercontent.com/NCBrady/LinuxMint-linux/main/installer.sh
-chmod +x installer.sh
-./installer.sh --verbose
+curl -fsSLO https://raw.githubusercontent.com/NCBrady/LinuxMint-linux/main/linuxmint-intune-installer.sh
+chmod +x linuxmint-intune-installer.sh
+./linuxmint-intune-installer.sh --verbose
 ```
 
 Options: `--insiders-fast`, `--local-package <path>`, `--verbose`, `-h|--help`.

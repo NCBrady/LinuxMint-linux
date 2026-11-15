@@ -14,7 +14,7 @@
 #   - RHEL/AlmaLinux 8, 9, 10
 #
 # Usage:
-#   ./installer.sh [OPTIONS]
+#   ./linuxmint-intune-installer.sh [OPTIONS]
 #
 # Options:
 #   --insiders-fast        Use the insiders-fast channel instead of prod
